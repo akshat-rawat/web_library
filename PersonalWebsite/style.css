@@ -1,0 +1,22 @@
+body{
+    background-color: #c9cbff;
+}
+
+hr {
+    border-style: none none dotted;
+    border-color: cadetblue;
+    border-width: 2px;
+    width: 5%;
+}
+
+h1 {
+    color: #654062;
+}
+
+h3 {
+    color: #654062;
+}
+
+img:hover {
+    background-color: antiquewhite;
+}
